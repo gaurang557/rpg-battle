@@ -1,0 +1,6 @@
+import requests
+r=requests.get("https://www.bing.com")
+print(r.url)
+f=open("binghtml.txt", "w")
+f.write(r.text)
+f.close()
