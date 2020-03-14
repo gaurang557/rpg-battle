@@ -1,0 +1,8 @@
+run this code in VS code
+there are 3 players p1,p2,p3
+there is a cycle of two inputs
+first input =first player
+second input = second player to be attacked or the string 'heal' for healing of first player.
+Enjoy th game.
+
+this project is just implementation of basic python concepts.
